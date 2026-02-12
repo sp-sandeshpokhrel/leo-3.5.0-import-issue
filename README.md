@@ -6,8 +6,8 @@ When importing a project with two dependencies â€” pondo_protocol and credits â€
 
 Leo used: leo github repo with tag
 [testnet-v3.5.0](https://github.com/ProvableHQ/leo/releases/tag/testnet-v3.5.0)
-`npm install -g @doko-js/cli@1.1.1-beta`
-`npm i`
+```npm install -g @doko-js/cli@1.1.1-beta```
+```npm i```
 
 ## Compile project
 
