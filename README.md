@@ -1,5 +1,7 @@
 # Credits import issue
 
+When importing a project with two dependencies — pondo_protocol and credits — I encounter the error described below. However, if I remove the direct credits import (since it’s already included inside pondo_protocol), I then get an error saying my program cannot read mappings from the credits program.
+
 ## Install @doko-js/cli@1.1.1-beta and dependencies
 
 Leo used: leo github repo with tag
